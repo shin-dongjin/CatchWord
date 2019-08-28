@@ -12,5 +12,6 @@ Two players play together. The first player explains the word in the upper box t
 
 ## Skills
 ● Developed with Java and the GUI was built with Swing
+<br/>
 ● Implemented chatting function with Java sockets programming over TCP/IP with an Client and Server. 
 
